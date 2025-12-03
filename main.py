@@ -1,4 +1,4 @@
-print("Hello, from the MAIN UNIVERSE!")
+print("Hello from the ALTERNATE Universe")
 print("I am leaning git today")
 
 print("I am experimenting with stashing")
