@@ -1,4 +1,4 @@
-print("Hello, GSoC!")
+print("Hello, from the MAIN UNIVERSE!")
 print("I am leaning git today")
 
 print("I am experimenting with stashing")
